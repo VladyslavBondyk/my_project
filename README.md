@@ -1,4 +1,4 @@
-#Used Pycharm. 
+#Used Pycharm
 #Python 3.8.3
 #Selenium
 #project1
