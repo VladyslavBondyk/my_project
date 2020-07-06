@@ -1,4 +1,7 @@
-# my_project
+#Used Pycharm. 
+#Python 3.8.3
+#Selenium
+#project1
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
 import urllib
